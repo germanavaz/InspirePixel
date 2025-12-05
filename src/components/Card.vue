@@ -16,10 +16,11 @@ defineProps(["imagem"]);
 .card{
     //border: solid;
     width: 30vw;
+    padding-bottom: 20px;
    
     img{
         width: 100%;
-        height: 70%;
+        height: 100%;
         border-radius: 10px;
     }
 
